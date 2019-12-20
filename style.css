@@ -1,0 +1,92 @@
+body{
+    
+    background-color:black;
+}
+
+.tarjeta{
+
+    width:400px;
+    height:600px;
+    background-color:white;
+    margin:50px auto;
+
+}
+
+.cabecera{
+
+    height:50px;
+    background-color:white;
+    display:inline-block;
+    width:100%;
+    
+}
+
+.title-cabecera{
+
+    float:left;
+    padding:10px;
+
+}
+
+.title-cabecera h2{
+
+padding:0;
+margin:0;
+font-size:10px;
+
+}
+
+.title-cabecera img{
+
+width:40px;
+
+
+}
+.iconos-cabecera{
+
+   float:right; 
+   padding :10px;
+
+}
+
+.iconos-cabecera img{
+
+    width:30px;
+}
+
+.body-tarjeta img{
+
+    width:100%;
+    
+    
+
+}
+
+.iconos-body{
+
+    
+    margin-top:5px;
+    padding:15px;
+
+}
+
+.iconos-instagram img {
+    width:30px;
+    padding-right:10px;
+    float:left;
+
+
+}
+.icono-guardar img{
+    width:30px;
+    
+    float :right;   
+}
+
+.footer-tarjeta{
+
+padding:15px;
+
+
+}
+
